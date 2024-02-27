@@ -1,4 +1,4 @@
-# LLM
+# GEN-LLM
 CDAC PGDIPLOMA Final year project
 
 LLama 2 Model used- https://huggingface.co/TheBloke/LLaMa-7B-GGML
